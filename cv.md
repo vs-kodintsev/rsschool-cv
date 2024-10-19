@@ -42,11 +42,15 @@ function greet() {
 
 **Pet project:** _CV_
 
+---
+
 ## Education:
 
 **Bachelor’s degree in Maritime Engineering**, _Saint-Petersburg State Marine Technical University (SMTU), 2015-2019_
 
 **Master’s degree in Maritime Engineering**, _Saint-Petersburg State Marine Technical University (SMTU), 2019-2021_
+
+---
 
 ## Language
 
